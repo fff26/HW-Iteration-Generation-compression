@@ -12,6 +12,3 @@ nested_list = [
     [[['g']], 'h'],
     'i'
 ]
-
-for item in deep_flat_generator(nested_list):
-    print(item)
